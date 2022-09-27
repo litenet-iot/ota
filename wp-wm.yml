@@ -1,0 +1,9 @@
+
+    # MQTT brocker Settings
+    #
+    mqtt_hostname: wpwnt1.ddns.net
+    mqtt_port: 1883
+    mqtt_username: mosquittouser
+    mqtt_password: 0GxrDL54TpuquGlZqNRKCei3knW7y2
+    mqtt_force_unsecure: true
+
